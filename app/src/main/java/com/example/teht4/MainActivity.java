@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-
+//a
     private Button btnEnableDisable;
     private EditText editteksti;
     private String teksti;
